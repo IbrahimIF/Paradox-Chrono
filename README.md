@@ -52,7 +52,3 @@ Below are images showcasing the early levels of the game we created.
 # License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-This is a personal project that showcases a game I have worked on called Paradox Chrono. The Game is built using a mix of visual studio ID and unit game engine, and it's a vibrant 3D platformer with many different levels, using blender I also created custom assets for the game.
-
-
