@@ -15,7 +15,7 @@ A game I have worked on called Paradox Chrono. The Game was created using the la
 
 
 -------
-# Getting started
+# Getting started:
 
 To run this project locally, you'll need to have the Unity Game engine installed on your computer. Once you have that installed, follow these steps:
 
@@ -25,7 +25,7 @@ To run this project locally, you'll need to have the Unity Game engine installed
 4. and you should then be able to see it on your screen.
 
 -----
-# Levels
+# Levels:
 Below are images showcasing the early levels of the game we created.
 
 - Level 0:
@@ -44,7 +44,7 @@ Below are images showcasing the early levels of the game we created.
 
 -----
 
-# Technologies and Tools Utilised
+# Technologies and Tools Utilised:
 [![My Skills](https://skillicons.dev/icons?i=cs,blender,unity&perline=1)](https://skillicons.dev)
 
 --------
