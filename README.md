@@ -44,7 +44,7 @@ Below are images showcasing the early levels of the game we created.
 
 -----
 
-# Technologies and Tools Utilized
+# Technologies and Tools Utilised
 [![My Skills](https://skillicons.dev/icons?i=cs,blender,unity&perline=1)](https://skillicons.dev)
 
 --------
