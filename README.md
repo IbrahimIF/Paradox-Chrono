@@ -3,7 +3,7 @@
 
 
 ![Project Status](https://img.shields.io/badge/status-inactive-red)
-![Static Badge](https://img.shields.io/badge/made_wtih-CSharp_&_Unity-blue)
+![Static Badge](https://img.shields.io/badge/made_with-CSharp_&_Unity-blue)
 
 
 A very old project that began around 2020 went from an assignment project for college to  a personal project 
@@ -49,6 +49,3 @@ Below are images showcasing the early levels of the game we created.
 
 --------
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
